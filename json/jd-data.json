@@ -1,0 +1,257 @@
+{
+	"classify001":{
+		"name":"热门",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米电视4A 32英寸",
+				"src" : "rm-01.jpg",
+				"price" : "799"
+			},
+			{
+				"id" : "shop02",
+				"name" : "RedmiBook 14",
+				"src" : "re-03.png",
+				"price" : "699"
+			},
+			{
+				"id" : "shop03",
+				"name" : "RedmiBook 14",
+				"src" : "rm-06.jpg",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop04",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop05",
+				"name" : "RedmiBook 14",
+				"src" : "rm-06.jpg",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop06",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop07",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop08",
+				"name" : "RedmiBook 14",
+				"src" : "re-05.jpg",
+				"price" : "999"
+			}
+		]
+	},
+	
+	"classify002":{
+		"name":"电视影音",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米壁画电视",
+				"src" : "pic_027.jpg",
+				"price" : "2499"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米壁画电视",
+				"src" : "pic_028.jpg",
+				"price" : "1999"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米壁画电视",
+				"src" : "pic_029.png",
+				"price" : "1099"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米壁画电视",
+				"src" : "pic_030.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米壁画电视",
+				"src" : "pic_031.jpg",
+				"price" : "2499"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米壁画电视",
+				"src" : "pic_032.png",
+				"price" : "1749"
+			},
+			{
+				"id" : "shop07",
+				"name" : "小米壁画电视",
+				"src" : "pic_032.png",
+				"price" : "1749"
+			},
+			{
+				"id" : "shop08",
+				"name" : "小米壁画电视",
+				"src" : "pic_032.png",
+				"price" : "1749"
+			}
+		]
+	},
+	
+	"classify003":{
+		"name":"电脑",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop02",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop03",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop04",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop06",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop07",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop08",
+				"name" : "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+				"src" : "re-04.jpg",
+				"price" : "2299"
+			}
+		]
+	},
+	"classify004":{
+		"name":"家居",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop07",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop08",
+				"name" : "小米电水壶",
+				"src" : "jj-01.jpg",
+				"price" : "499"
+			}
+		]
+	},
+	"classify005":{
+		"name":"智能硬件",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			}
+		]
+	}
+}

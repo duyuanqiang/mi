@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.clearfix:after {
+  display: block;
+  content: "\20";
+  height: 0;
+  clear: both;
+  overflow: hidden;
+  visibility: hidden; }
+
+fieldset,
+img {
+  border: 0; }
+
+.head {
+  width: 100%; }
+  .head .h {
+    margin: 0 auto;
+    width: 1130px;
+    height: 100px;
+    background: url(../images/mistore_logo.png) no-repeat; }
+
+.main {
+  position: relative;
+  background: url(../images/login_bg.jpg);
+  background-position: top center;
+  width: 100%;
+  height: 588px;
+  margin: 0 auto; }
+  .main .form {
+    position: absolute;
+    top: 40px;
+    left: 62%;
+    width: 410px;
+    height: 548px;
+    background: #fff; }
+    .main .form .log_h {
+      width: 390px;
+      height: 30px;
+      background: #fff;
+      color: #757575;
+      font-size: 24px;
+      text-align: center;
+      padding: 23px 10px; }
+      .main .form .log_h .line {
+        display: inline-block;
+        padding: 0 20px;
+        color: #e0e0e0; }
+      .main .form .log_h .count {
+        color: #ff6700; }
+      .main .form .log_h .count,
+      .main .form .log_h .log:hover {
+        color: #ff6700; }
+    .main .form .scan {
+      margin: 20px 76px;
+      display: none; }
+    .main .form .form_main {
+      display: block; }
+      .main .form .form_main .inp {
+        width: 390px; }
+        .main .form .form_main .inp input {
+          width: 306px;
+          height: 22px;
+          line-height: 22px;
+          padding: 13px 16px 13px 14px;
+          display: block;
+          margin: 15px auto; }
+        .main .form .form_main .inp #log_btn {
+          background: #ff6700;
+          border: none;
+          width: 348px;
+          height: 50px;
+          color: #fff;
+          font-size: 24px;
+          display: block;
+          padding: 5px 0; }
+      .main .form .form_main .other_panel {
+        width: 348px;
+        height: 48px;
+        margin: 0 auto;
+        color: #757575; }
+        .main .form .form_main .other_panel span {
+          display: block; }
+        .main .form .form_main .other_panel .log_p {
+          color: #ff6700;
+          float: left; }
+        .main .form .form_main .other_panel .reg_p {
+          float: right; }
+    .main .form .other_log {
+      margin-top: 80px; }
+      .main .form .other_log .fied {
+        border-top: 1px solid #e0e0e0;
+        padding-top: 10px; }
+        .main .form .other_log .fied .leg {
+          font-size: 14px;
+          color: #b0b0b0;
+          margin: 0 auto;
+          text-align: center; }
+      .main .form .other_log .app_log {
+        text-align: center;
+        margin-top: 10px; }
+        .main .form .other_log .app_log span {
+          display: inline-block;
+          padding: 0 10px; }
+
+.foot {
+  width: 100%;
+  margin-top: 60px; }
+  .foot .foot_list {
+    margin: 0 auto;
+    width: 300px;
+    padding: 20px 0; }
+    .foot .foot_list li {
+      float: left;
+      list-style: none;
+      color: #757575; }
+      .foot .foot_list li a {
+        color: #757575;
+        text-decoration: none;
+        display: inline-block;
+        padding: 0 10px; }
+  .foot p {
+    padding: 10px 0;
+    width: 1130px;
+    height: 16px;
+    text-align: center;
+    color: #757575;
+    margin: 0 auto; }
+
+/*# sourceMappingURL=login.css.map */

@@ -1,0 +1,257 @@
+{
+	"classify001":{
+		"name":"热门",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米米家智能摄像机",
+				"src" : "pic_087.jpg",
+				"price" : "799"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米WiFi放大器 2",
+				"src" : "pic_088.jpg",
+				"price" : "699"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米路由器4",
+				"src" : "pic_085.jpg",
+				"price" : "999"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米米家智能门锁 推拉式",
+				"src" : "rm-11.jpg",
+				"price" : "199"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米小爱音箱 Play",
+				"src" : "rm-12.jpg",
+				"price" : "899"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米净水器（厨上式） 增强版",
+				"src" : "rm-13.jpg",
+				"price" : "1299"
+			},
+			{
+				"id" : "shop07",
+				"name" : "空气净化器滤芯",
+				"src" : "cw-04.jpg",
+				"price" : "299"
+			},
+			{
+				"id" : "shop08",
+				"name" : "小米路由器 HD",
+				"src" : "pic_084.jpg",
+				"price" : "999"
+			}
+		]
+	},
+	
+	"classify002":{
+		"name":"出行",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米米家电动滑板车",
+				"src" : "cw-03.png",
+				"price" : "1499"
+			},
+			{
+				"id" : "shop02",
+				"name" : "电助力折叠自行车",
+				"src" : "pic_028.jpg",
+				"price" : "1999"
+			},
+			{
+				"id" : "shop03",
+				"name" : "米兔遥控小飞机",
+				"src" : "cx-03.jpg",
+				"price" : "1099"
+			},
+			{
+				"id" : "shop04",
+				"name" : "米家车载空气净化器（USB车充版） 灰色",
+				"src" : "cx-04.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "电助力折叠自行车",
+				"src" : "pic_028.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop06",
+				"name" : "米兔遥控小飞机",
+				"src" : "cx-03.jpg",
+				"price" : "1749"
+			},
+			{
+				"id" : "shop07",
+				"name" : "电助力折叠自行车",
+				"src" : "pic_028.jpg",
+				"price" : "1749"
+			},
+			{
+				"id" : "shop08",
+				"name" : "米兔遥控小飞机",
+				"src" : "cx-03.jpg",
+				"price" : "1749"
+			}
+		]
+	},
+	
+	"classify003":{
+		"name":"酷玩",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop02",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop03",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop04",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop06",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop07",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop08",
+				"name" : "履带底盘，智能操控，百变拼插",
+				"src" : "cw-01.jpg",
+				"price" : "2299"
+			}
+		]
+	},
+	"classify004":{
+		"name":"路由器",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop07",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop08",
+				"name" : "小米路由器4A千兆版",
+				"src" : "pic_090.jpg",
+				"price" : "499"
+			}
+		]
+	},
+	"classify005":{
+		"name":"智能硬件",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			}
+		]
+	}
+}

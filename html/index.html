@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="../css/index.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        .icon {
+            width: 26px;
+            height: 26px;
+            fill: currentColor;
+            overflow: hidden;
+            line-height: 26px;
+            display: inline-block;
+            vertical-align: top;
+        }
+
+        .i {
+            width: 26px;
+            height: 26px;
+            fill: currentColor;
+            overflow: hidden;
+            line-height: 20px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 导航部分 -->
+    <div class="bg_nav clearfix">
+        <div class="_nav">
+            <div class="nav banline">
+                <ul class="nav_l">
+                    <li><a href="">小米商城</a><span>|</span></li>
+                    <li><a href="">MIUI</a><span>|</span></li>
+                    <li><a href="">loT</a><span>|</span></li>
+                    <li><a href="">云服务</a><span>|</span></li>
+                    <li><a href="">金融</a><span>|</span></li>
+                    <li><a href="">有品</a><span>|</span></li>
+                    <li><a href="">小爱开放平台</a><span>|</span></li>
+                    <li><a href="">企业团购</a><span>|</span></li>
+                    <li><a href="">资质证照</a><span>|</span></li>
+                    <li><a href="">协议规则</a><span>|</span></li>
+                    <li><a href="">下载app</a><span>|</span></li>
+                    <li><a href="">Select Region</a></li>
+                </ul>
+                <ul class="nav_r">
+                    <li><a href="login.html" id="login">登录</a><span>|</span></li>
+                    <li><a href=register.html" id="register">注册</a><span>|</span></li>
+                    <li><a href="">消息通知</a><span>|</span></li>
+                    <!-- 购物车 -->
+                    <li class="shop_car">
+                        <a href="shopcar.html">购物车<span class="price">(0)</span></a>
+    
+                        <ul class="shop ">
+                            <li></li>
+                        </ul>
+    
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- 导航第二层 -->
+        <div class="header">
+            <div class="container banline">
+                <div class="logo">
+                    <a href="//www.mi.com/index.html" title="小米官网" alt="">
+                        <img src="../images/logo-footer.png">
+                    </a>
+                </div>
+                <ul class="h_nav">
+                    <li><a href="">小米手机</a></li>
+                    <li><a href="">Redmi 红米</a></li>
+                    <li><a href="">电视</a></li>
+                    <li><a href="">笔记本</a></li>
+                    <li><a href="">家电</a></li>
+                    <li><a href="">路由器</a></li>
+                    <li><a href="">智能硬件</a></li>
+                    <li><a href="">服务</a></li>
+                    <li><a href="">社区</a></li>
+                </ul>
+               
+                <!-- 导航第二层右边部分 -->
+                <div class="h_form">
+                    <form action="" method="GET" id="m_search" class="m_sear"></form>
+
+                    <input type="text" id="search" name="" class="search_text" value="...">
+                    <button id="btn" class="s_btn"><a href=""><img src="../images/search.png"></a></button>
+                    </form>
+                    <!--  搜索框 -->
+                    <div class="se_list">
+                        <ul class="search_list">
+                            <li><a href="javascript::">小米 9</a></li>
+                            <li><a href="javascript::">Redmi K20 pro</a></li>
+                            <li><a href="javascript::">Redmi K20</a></li>
+                            <li><a href="javascript::">Redmi Note 7 pro</a></li>
+                            <li><a href="javascript::">Redmi Note 7</a></li>
+                            <li><a href="javascript::">小米电视4c</a></li>
+                            <li><a href="javascript::">电视32英寸</a></li>
+                            <li><a href="javascript::">笔记本Pro</a></li>
+                            <li><a href="javascript::">小爱音箱</a></li>
+                            <li><a href="javascript::">净水器</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="nav_card">
+                <ul class="p_card banline">
+                    <!-- <li class="first">
+                        <a id="card_phone " href=""><img src="../images/pic_002.png" alt=""></a>
+                        <div class="card_title">小米9</div>
+                        <p class="price card_p">2999元</p>
+                    </li> -->
+
+
+                </ul>
+            </div>
+        </div>
+        <!-- 轮播部分 -->
+        <div class="ban clearfix">
+            <div class="box banline">
+                <ul class="banner ">
+                    <li><a href=""><img src="../images/pic_067.jpg" alt=""></a></li>
+                    <li><a href=""><img src="../images/pic_068.jpg" alt=""></a></li>
+                    <li><a href=""><img src="../images/pic_069.jpg" alt=""></a></li>
+                    <li><a href=""><img src="../images/pic_070.jpg" alt=""></a></li>
+                </ul>
+                <ul class="title">
+                    <li><a href="" class="current"></a></li>
+                    <li><a href=""></a></li>
+                    <li><a href=""></a></li>
+                    <li><a href=""></a></li>
+                </ul>
+                <ol class="categroy">
+                    <li id="pho"><a href="">手机 电话卡</a> </li>
+                    <li><a href="">电视 盒子</a></li>
+                    <li><a href="">笔记本 平板</a></li>
+                    <li><a href="">家电 插线板</a></li>
+                    <li><a href="">出行 穿戴</a></li>
+                    <li><a href="">智能 路由器</a></li>
+                    <li><a href="">电源 配件</a></li>
+                    <li><a href="">健康 儿童</a></li>
+                    <li><a href="">耳机 音箱</a></li>
+                    <li><a href="">生活 箱包</a></li>
+                </ol>
+                <div class="ban_card " id="phe">
+                    <ul>
+                        <li>
+                            <a href=""><img src="../images/pic_002.png" alt=""></a>
+                            <span>小米 9</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_003.png" alt=""></a>
+                            <span>小米 8</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_004.png" alt=""></a>
+                            <span>小米 9 pro</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_005.png" alt=""></a>
+                            <span>小米 Note 7</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_006.png" alt=""></a>
+                            <span>小米 Note 7 pro</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_007.png" alt=""></a>
+                            <span>小米 Mix3</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_008.png" alt=""></a>
+                            <span>小米 2s</span>
+                        </li>
+
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href=""><img src="../images/pic_003.png" alt=""></a>
+                            <span>小米 8</span>
+                        </li>
+
+                        <li>
+                            <a href=""><img src="../images/pic_004.png" alt=""></a>
+                            <span>小米 9 pro</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_002.png" alt=""></a>
+                            <span>小米 9</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_005.png" alt=""></a>
+                            <span>小米 Note 7</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_008.png" alt=""></a>
+                            <span>小米 2s</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_006.png" alt=""></a>
+                            <span>小米 Note 7 pro</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_007.png" alt=""></a>
+                            <span>小米 Mix3</span>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href=""><img src="../images/pic_002.png" alt=""></a>
+                            <span>小米 9</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_006.png" alt=""></a>
+                            <span>小米 Note 7 pro</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_003.png" alt=""></a>
+                            <span>小米 8</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_004.png" alt=""></a>
+                            <span>小米 9 pro</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_005.png" alt=""></a>
+                            <span>小米 Note 7</span>
+                        </li>
+
+                        <li>
+                            <a href=""><img src="../images/pic_007.png" alt=""></a>
+                            <span>小米 Mix3</span>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_008.png" alt=""></a>
+                            <span>小米 2s</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="home_sub banline">
+                <div class="home_l">
+                    <img src="../images/xuangou.png" alt="">
+                </div>
+                <div class="home_r">
+                    <ul>
+                        <li>
+                            <a href=""><img src="../images/pic_071.jpg" alt=""></a>
+                        </li>
+                        <li>
+                            <a href=""><img src="../images/pic_072.jpg" alt="" </a> </li> <li>
+                                <a href="">
+                                    <img src="../images/pic_073.jpg" alt="">
+                                </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="home-ban clearfix">
+            <div class="mi banline">
+                <img src="../images/pic_ban.png" alt="">
+            </div>
+        </div>
+        <div class="main clearfix">
+            <div class="home_main banline">
+                <div class="phone">
+                    <div class="p_top">
+                        <span>手机</span>
+                        <div><a href="">查看全部<span></span></a></div>
+                    </div>
+                    <div class="p_con_l"><a href=""><img src="../images/pic_096.jpg" alt=""></a></div>
+                    <div class="p_con_r">
+                        <ul class="p_con_u_list " id="sj-ul">
+                            <!-- <li>
+                                <img src="../images/pic_101.png" alt="">
+                                <a href="">小米9 6GB+128GB</a>
+                                <p>骁龙855，索尼4800万超广角微距三摄</p>
+                                <p><span>2999</span>元</p>
+                            </li> -->
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="home-ban">
+                <div class="mi banline">
+                    <img src="../images/xmtv.jpg" alt="">
+                </div>
+            </div>
+            <div class="banline">
+                <div class="house">
+                    <div class="h_top">
+                        <span>家电</span>
+                        <ul id="jd-title">
+                            <li><a href="">热门</a></li>
+                            <li><a href="">电视影音</a></li>
+                            <li><a href="">电脑</a></li>
+                            <li><a href="">家居</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="h_con_l">
+                        <a href=""><img src="../images/mi_06.png" alt=""></a>
+                        <a href=""><img src="../images/mi_09.png" alt=""></a>
+                    </div>
+                    <div class="h_con_r">
+                        <ul class="h_con_u_list " id="jd-ul">
+                            <!-- <li>
+                                <img src="../images/pic_002.png" alt="">
+                                <a href="">小米9 6GB+128GB</a>
+                                <p>骁龙855，索尼4800万超广角微距三摄</p>
+                                <p><span>2999</span>元</p>
+                            </li> -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="home-ban">
+                <div class="mi banline">
+                    <img src="../images/home-ban-mi.jpg" alt="">
+                </div>
+            </div>
+            <div class="banline">
+                <div class="house">
+                    <div class="h_top">
+                        <span>智能</span>
+                        <ul id="zn-title">
+                            <li><a href="">热门</a></li>
+                            <li><a href="">出行</a></li>
+                            <li><a href="">酷玩</a></li>
+                            <li><a href="">路由器</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="h_con_l">
+                        <a href=""><img src="../images/pic_086.jpg" alt=""></a>
+                        <a href=""><img src="../images/pic_092.jpg" alt=""></a>
+                    </div>
+                    <div class="h_con_r">
+                        <ul class="h_con_u_list " id="zn-ul">
+                            <!-- <li>
+                                <img src="../images/pic_002.png" alt="">
+                                <a href="">小米9 6GB+128GB</a>
+                                <p>骁龙855，索尼4800万超广角微距三摄</p>
+                                <p><span>2999</span>元</p>
+                            </li> -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="home-ban">
+                <div class="mi banline">
+                    <img src="../images/mi_14.png" alt="">
+                </div>
+            </div>
+            <div class="banline">
+                <div class="house">
+                    <div class="h_top">
+                        <span>搭配</span>
+                        <ul id="dp-title">
+                            <li><a href="">热门</a></li>
+                            <li><a href="">电视影音</a></li>
+                            <li><a href="">电脑</a></li>
+                            <li><a href="">家居</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="h_con_l">
+                        <a href=""><img src="../images/dp-01.jpg" alt=""></a>
+                        <a href=""><img src="../images/dp-02.jpg" alt=""></a>
+                    </div>
+                    <div class="h_con_r">
+                        <ul class="h_con_u_list" id="jd-ul">
+                            <!-- <li>
+                                <img src="../images/pic_002.png" alt="">
+                                <a href="">小米9 6GB+128GB</a>
+                                <p>骁龙855，索尼4800万超广角微距三摄</p>
+                                <p><span>2999</span>元</p>
+                            </li> -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="home-ban">
+                <div class="mi banline">
+                    <img src="../images/mi_11.png" alt="">
+                </div>
+            </div>
+            <div class="banline" style="margin-bottom: 50px">
+                <div class="house">
+                    <div class="h_top">
+                        <span>配件</span>
+                        <ul id="zn-title">
+                            <li><a href="">热门</a></li>
+                            <li><a href="">出行</a></li>
+                            <li><a href="">酷玩</a></li>
+                            <li><a href="">路由器</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="h_con_l">
+                        <a href=""><img src="../images/pj-01.jpg" alt=""></a>
+                        <a href=""><img src="../images/pj-02.jpg" alt=""></a>
+                    </div>
+                    <div class="h_con_r">
+                        <ul class="h_con_u_list " id="zn-ul">
+                            <!-- <li>
+                                <img src="../images/pic_002.png" alt="">
+                                <a href="">小米9 6GB+128GB</a>
+                                <p>骁龙855，索尼4800万超广角微距三摄</p>
+                                <p><span>2999</span>元</p>
+                            </li> -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+    <footer class=" foot clearfix">
+        <div class="container banline ">
+            <div class="site-top banline clearfix">
+                <ul class="site-ul ">
+                    <li class="site-fir">
+                        <span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-xiulixian"></use>
+                            </svg>
+                        </span>
+
+                        <span>预约维修服务</span>
+                    </li>
+                    <li>
+                        <span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-sevenday"></use>
+                            </svg>
+                        </span>
+                        <span>7天无理由退货</span>
+                    </li>
+                    <li>
+                        <span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-tianwuliyoutuihuo"></use>
+                            </svg>
+                        </span>
+                        <span>15天无理由换货</span>
+                    </li>
+                    <li>
+                        <span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-xinshoudalibao"></use>
+                            </svg>
+                        </span>
+                        <span>满150元包邮</span>
+                    </li>
+                    <li>
+                        <span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-zhandiandizhi"></use>
+                            </svg>
+                        </span>
+                        <span>520余家售后网点</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="foot-link">
+                <dl class="col-links">
+                    <dt>帮助中心</dt>
+                    <dd>账户管理</dd>
+                    <dd>购物指南</dd>
+                    <dd>订单操作</dd>
+                </dl>
+                <dl class="col-links">
+                    <dt>服务支持</dt>
+                    <dd>售后政策</dd>
+                    <dd>自助服务</dd>
+                    <dd>相关下载</dd>
+                </dl>
+                <dl class="col-links">
+                    <dt>线下门店</dt>
+                    <dd>小米之家</dd>
+                    <dd>服务网点</dd>
+                    <dd>授权体验店</dd>
+                </dl>
+                <dl class="col-links">
+                    <dt>关于小米</dt>
+                    <dd>了解小米</dd>
+                    <dd>加入小米</dd>
+                    <dd>投资者关系</dd>
+                </dl>
+                <dl class="col-links">
+                    <dt>关注我们</dt>
+                    <dd>新浪微博</dd>
+                    <dd>官方微信</dd>
+                    <dd>联系我们</dd>
+                </dl>
+                <dl class="col-links">
+                    <dt>特色服务</dt>
+                    <dd>F 码通道</dd>
+                    <dd>礼物码</dd>
+                    <dd>防伪查询</dd>
+                </dl>
+                <div class="col-concat">
+                    <p class="phone">400-100-5678</p>
+                    <p class="">
+                        周一至周日 8:00-18:00
+                        <br>
+                        （仅收市话费）
+                    </p>
+                    <a href="" class="btn btn-line-primary btn-small">
+                        <svg class="i" aria-hidden="true">
+                            <use xlink:href="#icon-lianxikefu"></use>
+                        </svg>
+                        联系客服
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="site-info clearfix">
+        <div class="container">
+            <div class="logo ir">小米官网</div>
+            <div class="info-text">
+                <p class="sites">
+                    <a href="">小米商城</a>
+                    <span class="seq">|</span>
+                    <a href="">MUMI</a>
+                    <span class="seq">|</span>
+                    <a href="">米家</a>
+                    <span class="seq">|</span>
+                    <a href="">米聊</a>
+                    <span class="seq">|</span>
+                    <a href="">多看</a>
+                    <span class="seq">|</span>
+                    <a href="">游戏</a>
+                    <span class="seq">|</span>
+                    <a href="">路由器</a>
+                    <span class="seq">|</span>
+                    <a href="">米粉卡</a>
+                    <span class="seq">|</span>
+                    <a href="">政企服务</a>
+                    <span class="seq">|</span>
+                    <a href="">小米天猫店</a>
+                    <span class="seq">|</span>
+                    <a href="">隐私政策</a>
+                    <span class="seq">|</span>
+                    <a href="">商城用户协议</a>
+                    <span class="seq">|</span>
+                    <a href="">账号协议</a>
+                    <span class="seq">|</span>
+                    <a href="">问题反馈</a>
+                    <span class="seq">|</span>
+                    <a href="">廉政举报</a>
+                    <span class="seq">|</span>
+                    <a href="">小米商城</a>
+                    <span class="seq">|</span>
+                    <a href="">诚信合规</a>
+                    <span class="seq">|</span>
+                    <a href="">Select Region</a>
+                </p>
+                <p>
+                    © mi.com 京ICP证110507号京公网安备11010802020134号 京网文[2017]1530-131号
+                    <br>
+                    （京）网械平台备字（2018）第00005号 互联网药品信息服务资格证 (京) -非经营性-2014-0090 营业执照 医疗器械公告
+                </p>
+                <div class="info-links">
+                    <img src="../images/truste.png" alt="诚信网站" class="trust">
+                    <img src="../images/v-logo-2.png" alt="诚信网站">
+                    <img src="../images/v-logo-1.png" alt="诚信网站">
+                    <img src="../images/v-logo-3.png" alt="诚信网站">
+                    <img src="../images/ba.png" alt="诚信网站">
+                </div>
+            </div>
+        </div>
+    </div> 
+</body>
+
+</html>
+<script src="../js/require.js" data-main="../js/index"></script>
+<script src="../js/iconfont.js"></script>

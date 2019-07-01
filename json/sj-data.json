@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "shop01",
+        "name" : "小米9",
+        "src" : "pic_002.png",
+        "price" : "2999"
+    },
+    {
+        "id" : "shop02",
+        "name" : "小米9 SE",
+        "src" : "pic_003.png",
+        "price" : "1999"
+    },
+    {
+        "id" : "shop03",
+        "name" : "小米8 青春版",
+        "src" : "pic_004.png",
+        "price" : "1099"
+    },
+    {
+        "id" : "shop04",
+        "name" : "小米MIX 3",
+        "src" : "pic_005.png",
+        "price" : "2299"
+    },
+    {
+        "id" : "shop05",
+        "name" : "小米8",
+        "src" : "pic_006.png",
+        "price" : "2599"
+    },
+    {
+        "id" : "shop06",
+        "name" : "小米Play",
+        "src" : "pic_007.png",
+        "price" : "749"
+    },
+    {
+        "id" : "shop07",
+        "name" : "Redmi Note 7",
+        "src" : "pic_012.jpg",
+        "price" : "2499"
+    },
+    {
+        "id" : "shop08",
+        "name" : "Redmi 7",
+        "src" : "pic_013.png",
+        "price" : "1749"
+    }
+]

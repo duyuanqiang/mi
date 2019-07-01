@@ -1,0 +1,190 @@
+{
+	"classify001":{
+		"name" : "小米9",
+		"list1" : {
+			"name":"手机",
+			"list":[
+
+				{
+					"id" : "shop01",
+					"name" : ["小米9 SE 全网通版 布朗熊限量套装 6GB+64GB 全息幻彩紫"],
+					"src1" : ["xiami9_004.jpg"],
+					"price" : "2499"
+				},
+				{
+					"id" : "shop02",
+					"name" : ["小米9 王源限量版 8GB+128GB 透明"],
+					"src1" : ["xiami9_007.jpg"],
+					"price" : "3599"
+				},
+				{
+					"id" : "shop03",
+					"name" : ["小米9 "],
+					"src1" : ["xiami9_008.jpg"],
+					"price" : "2999"
+				},
+				{
+					"id" : "shop04",
+					"name" : ["小米9 全网通版 6GB+128GB 深空灰 "],
+					"src1" : ["xiami9_008.jpg"],
+					"price" : "2999"
+				},
+				{
+					"id" : "shop05",
+					"name" : ["小米9 全网通版 8GB+128GB 深空灰 "],
+					"src1" : ["xiami9_008.jpg"],
+					"price" : "3299"
+				},
+				
+				{
+					"id" : "shop06",
+					"name" : ["小米9 全网通版 8GB+256GB 透明版"],
+					"src1" : ["xiami9_015.jpg"],
+					"price" : "3699"
+				},
+				{
+					"id" : "shop07",
+					"name" : ["小米9 全网通版 12GB+256GB 透明版"],
+					"src1" : ["xiami9_015.jpg"],
+					"price" : "3999"
+				},
+				{
+					"id" : "shop08",
+					"name" : ["小米9 SE"],
+					"src1" : ["xiami9_017.jpg"],
+					"price" : "1999"
+				},
+				{
+					"id" : "shop09",
+					"name" : ["小米9 SE 全网通版 8GB+128GB 深空灰 "],
+					"src1" : ["xiami9_008.jpg"],
+					"price" : "2499"
+				},
+				{
+					"id" : "shop010",
+					"name" : ["小米9 SE 全网通版 6GB+128GB 深空灰 "],
+					"src1" : ["xiami9_008.jpg"],
+					"price" : "2299"
+				},
+				{
+					"id" : "shop011",
+					"name" : ["小米9 SE 全网通版 6GB+64GB 深空灰 "],
+					"src1" : ["xiami9_008.jpg"],
+					"price" : "1999"
+				}
+				
+			]
+		},
+		"list2" : {
+			"name":"电源电池",
+			"list":[
+				{
+					"id" : "shop01",
+					"name" : ["27W高速充电插头 白色"],
+					"src1" : ["xiami9_024.png"],
+					"price" : "49"
+				}
+			]
+		},
+		"list3" : {
+			"name":"手机贴膜",
+			"list":[
+				{
+					"id" : "shop01",
+					"name" : ["小米9 标准高透贴膜 标准高透"],
+					"src1" : ["xiami9_025.jpg"],
+					"price" : "19"
+				},
+				{
+					"id" : "shop02",
+					"name" : ["小米9 SE 标准高透贴膜 "],
+					"src1" : ["xiami9_026.jpg"],
+					"price" : "19"
+				}
+			]
+		},
+		"list4" : {
+			"name":"手机保护壳",
+			"list":[
+				{
+					"id" : "shop01",
+					"name" : ["小米9 ARE U OK保护壳 红色 "],
+					"src1" : ["xiami9_036.jpg"],
+					"price" : "29"
+				},
+				{
+					"id" : "shop02",
+					"name" : ["小米9 ARE U OK保护壳 蓝色 "],
+					"src1" : ["xiami9_033.png"],
+					"price" : "29"
+				},
+				{
+					"id" : "shop03",
+					"name" : ["小米9 ARE U OK保护壳 橘色 "],
+					"src1" : ["xiami9_035.jpg"],
+					"price" : "29"
+				},
+				{
+					"id" : "shop04",
+					"name" : ["小米9 ARE U OK保护壳 黄色 "],
+					"src1" : ["xiami9_040.jpg"],
+					"price" : "29"
+				},
+				{
+					"id" : "shop05",
+					"name" : ["小米9 ARE U OK保护壳 青色 "],
+					"src1" : ["xiami9_045.jpg"],
+					"price" : "29"
+				},
+				{
+					"id" : "shop05",
+					"name" : ["小米9 ARE U OK保护壳 黑色 "],
+					"src1" : ["xiami9_060.jpg"],
+					"price" : "29"
+				}
+			]
+		}
+	},
+	"classify002":{
+		"name" : "Redmi K20 pro",
+		"list1" : {
+			"name":"手机",
+			"list":[
+
+				{
+					"id" : "shop01",
+					"name" : ["Redmi K20 Pro"],
+					"src1" : ["Redmi k20 pro_001.jpg"],
+					"price" : "2499"
+				},
+				{
+					"id" : "shop02",
+					"name" : ["Redmi K20 Pro 8GB+256GB 碳纤黑"],
+					"src1" : ["Redmi k20 pro_003.jpg"],
+					"price" : "3599"
+				},
+				{
+					"id" : "shop03",
+					"name" : ["Redmi K20 Pro 8GB+128GB 蓝色"],
+					"src1" : ["Redmi k20 pro_004.jpg"],
+					"price" : "2999"
+				},
+				{
+					"id" : "shop04",
+					"name" : ["Redmi K20 Pro 8GB+128GB 碳纤黑 "],
+					"src1" : ["Redmi k20 pro_007.jpg"],
+					"price" : "2999"
+				},
+				{
+					"id" : "shop05",
+					"name" : ["Redmi K20 Pro 6GB+128GB 火焰红"],
+					"src1" : ["Redmi k20 pro_011.jpg"],
+					"price" : "3299"
+				}
+				
+				
+				
+			]
+		}
+	}
+}	

@@ -1,0 +1,289 @@
+{
+	"classify001":{
+		"name" : "小米手机",
+		"list" : [
+			{
+				"id" : "shop001",
+				"name" : "小米9",
+				"src" : "pic_002.png",
+				"price" : "2999"
+			},
+			{
+				"id" : "shop002",
+				"name" : "小米9 SE",
+				"src" : "pic_003.png",
+				"price" : "1999"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米8 青春版",
+				"src" : "pic_004.png",
+				"price" : "1099"
+			},
+			{
+				"id" : "shop004",
+				"name" : "小米MIX 3",
+				"src" : "pic_005.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米8",
+				"src" : "pic_006.png",
+				"price" : "2599"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米Play",
+				"src" : "pic_007.png",
+				"price" : "749"
+			}
+		]
+	},
+	"classify002":{
+		"name" : "Redmi 红米",
+		"list" : [
+			{
+				"id" : "shop001",
+				"name" : "Redmi k20 Pro",
+				"src" : "pic_008.png",
+				"price" : "2499"
+			},
+			{
+				"id" : "shop002",
+				"name" : "Redmi k20",
+				"src" : "pic_009.png",
+				"price" : "1999"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Redmi 7A",
+				"src" : "pic_010.png",
+				"price" : "1099"
+			},
+			{
+				"id" : "shop004",
+				"name" : "Redmi Note 7 Pro",
+				"src" : "pic_011.jpg",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "Redmi Note 7",
+				"src" : "pic_012.jpg",
+				"price" : "2499"
+			},
+			{
+				"id" : "shop06",
+				"name" : "Redmi 7",
+				"src" : "pic_013.png",
+				"price" : "1749"
+			}
+		]
+	},
+	"classify003":{
+		"name":"电视",
+		"list":[
+			{
+				"id" : "shop001",
+				"name" : "小米壁画电视",
+				"src" : "pic_027.jpg",
+				"price" : "2499"
+			},
+			{
+				"id" : "shop002",
+				"name" : "小米壁画电视",
+				"src" : "pic_028.jpg",
+				"price" : "1999"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米壁画电视",
+				"src" : "pic_029.png",
+				"price" : "1099"
+			},
+			{
+				"id" : "shop004",
+				"name" : "小米壁画电视",
+				"src" : "pic_030.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米壁画电视",
+				"src" : "pic_031.jpg",
+				"price" : "2499"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米壁画电视",
+				"src" : "pic_032.png",
+				"price" : "1749"
+			}
+		]
+	},
+	"classify004":{
+		"name":"笔记本",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop02",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop03",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop04",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop05",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			},
+			{
+				"id" : "shop06",
+				"name" : "RedmiBook 14",
+				"src" : "RedmiBook_01.png",
+				"price" : "3999"
+			}
+		]
+	},
+	"classify005":{
+		"name":"家电",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "米家互联网空调",
+				"src" : "kongtiao_01.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop02",
+				"name" : "米家互联网空调",
+				"src" : "kongtiao_01.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop03",
+				"name" : "米家互联网空调",
+				"src" : "kongtiao_01.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop04",
+				"name" : "米家互联网空调",
+				"src" : "kongtiao_01.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop05",
+				"name" : "米家互联网空调",
+				"src" : "kongtiao_01.png",
+				"price" : "2299"
+			},
+			{
+				"id" : "shop06",
+				"name" : "米家互联网空调",
+				"src" : "kongtiao_01.png",
+				"price" : "2299"
+			}
+		]
+	},
+	"classify006":{
+		"name":"路由器",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米路由器",
+				"src" : "pic_084.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米路由器",
+				"src" : "pic_084.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米路由器",
+				"src" : "pic_084.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米路由器",
+				"src" : "pic_084.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米路由器",
+				"src" : "pic_084.jpg",
+				"price" : "499"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米路由器",
+				"src" : "pic_084.jpg",
+				"price" : "499"
+			}
+		]
+	},
+	"classify007":{
+		"name":"智能硬件",
+		"list":[
+			{
+				"id" : "shop01",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop02",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop03",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop04",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop05",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			},
+			{
+				"id" : "shop06",
+				"name" : "小米智能摄像头",
+				"src" : "pic_086.jpg",
+				"price" : "189"
+			}
+		]
+	}
+}
